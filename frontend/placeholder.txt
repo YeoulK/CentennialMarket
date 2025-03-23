@@ -1,0 +1,17 @@
+# Centennial Market - Project Plan
+
+## Team Members
+- Gavin
+- Yeoul
+- Stephen Hui
+- Suin
+- Mina
+- Peggy Tseng 
+
+## Project Idea
+A second-hand marketplace designed for Centennial College students.
+
+## Features
+- User registration & login
+- Post & browse items
+- Messaging system
